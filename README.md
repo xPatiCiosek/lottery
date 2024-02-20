@@ -1,3 +1,5 @@
-# lottery
+# lottery game
+Runs through terminal
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/xPatiCiosek/lottery)
+### Built with:
+- Python
